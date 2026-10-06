@@ -1,0 +1,23 @@
+body {
+  background-color:aliceblue
+  min-height 1000px;
+}
+.page {
+  background-color: aqua;
+  min-height: 80vh;
+}
+header {
+  background-color: blueviolet;
+}
+nav {
+  background-color: blanchedalmond;
+}
+main{
+  background-color: azure;
+}
+aside{
+  background-color: bisque;
+}
+footer{
+  background-color: aquamarine;
+}
